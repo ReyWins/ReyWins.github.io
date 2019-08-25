@@ -4,36 +4,43 @@
 - organization: CompTIA
   role: A+ Certified (901/902)
   year: 2018 &mdash; 2022
+  #url: ""
   summary: Earners of the CompTIA A+ certification are proven problem solvers who are able to perform critical IT support tasks including device configuration, data backup and recovery, and operating system configuration. CompTIA A+ certified professionals have demonstrated baseline security skills for IT support roles and are able to detect and remove malware, address privacy concerns, and troubleshoot core service challenges.
 
 
 - organization: CompTIA
   role: Network+ Certified
   year: 2018 &mdash; 2022
+  #url: ""
   summary: Earners of the CompTIA Network+ certification have the skills needed to troubleshoot, configure, and manage wired and wireless networks found in companies around the world. CompTIA Network+ professionals have demonstrated the ability to design and implement functional networks, configure, manage, and maintain essential network devices, implement network security, and troubleshoot network problems.
   
   - organization: CompTIA
   role: Security+ Certified
   year: 2019 &mdash; 2022
+  #url: ""
   summary: Earners of the CompTIA Security+ certification have the knowledge and skills necessary to perform core security functions required of any cybersecurity role. CompTIA Security+ professionals know how to identify and address potential threats, attacks and vulnerabilities and they have established techniques in risk management, risk mitigation, threat management and intrusion detection.
 
   - organization: CompTIA 
   role: Certified IT Operations Specialist Stack Certificate (CIOS)
   year: 2018 - 2022
+  #url: ""
   summary: Earners of the CompTIA IT Operations Specialist (CIOS) certification have the ability to manage the flow of a workplace and optimize day-to-day activities. These IT operations specialists have demonstrated the ability to analyze business operations and identify customer needs.
   
   - organization: CompTIA
   role: Certified Secure Infrastructure Operations Specialist (CSIS)
   year: 2019 &mdash; 2022
+  #url: ""
   summary: Earners of the CompTIA Secure Infrastructure Specialist (CSIS) certification have the knowledge and skill required to support hardware and software systems. These secure infrastructure specialists will also be able to protect an organization’s assets from internal and external threats.
   
   - organization: CIW
   role: CIW-WSS (Web Security Specialist)
   year: 2019
+  #url: ""
   summary: The CIW Web Security Associate course teaches you how to secure your network from unauthorized activity. This course teaches you about security principles, such as establishing an effective security policy, and about the different types of hacker activities that you are most likely to encounter. Individuals with these security skills can pursue or advance careers in many aspects of online and network security.
   
   - organization: EC-Council
   role: EC-Council Certified Encryption Specialist (ECES)
   year: 2019
+  #url: ""
   summary: The EC-Council Certified Encryption Specialist (ECES) program introduces professionals and students to the field of cryptography. The participants will learn the foundations of modern symmetric and key cryptography including the details of algorithms such as Feistel Networks, DES, and AES.
 
