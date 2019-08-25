@@ -20,7 +20,7 @@ resume_contact_email:           "areye79@wgu.edu"
 # resume_contact_telephone:       ""
 resume_contact_address:         "Greater NYC Area"
 
-resume_header_contact_info:     "Greater NYC - areye79@wgu.edu"
+resume_header_contact_info:     "Greater NYC Area - areye79@wgu.edu"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Aspiring individual who has a passion for technology focusing in the Infomation Assurance (IA), but not limited to learning on how new technologies function and work in a fast pace enterprise enviorment.</p>"
@@ -52,7 +52,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/alexander-reyes-cios-csis-ciw-wss-eces-7402a1103/"
   #resume_instagram_url:        ""
   resume_website_url:           "http://reywins.github.io"
-  resume_medium_url:            ""
+  #resume_medium_url:            ""
   resume_print_social_links:      true
 
 # Design settings
