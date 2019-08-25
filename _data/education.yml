@@ -1,13 +1,17 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelors of Science, Computer Science Information Assurance (IA)
+  uni: Western Govenors University
+  year: 2018 &mdash; 2020
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Federal Grant for completeing all tasks on time. Finished first semester in 3 months.
+  summary: WGU’s online B.S. Cybersecurity and Information Assurance degree program was designed with input from cybersecurity experts and leading IT employers to meet the most recent Department of Homeland Security (DHS), and National Security Agency (NSA) guidelines. This online cybersecurity degree program includes multiple industry-recognized certifications including those from CompTIA, CIW, EC-Council, and ISC² that are built into the curriculum and do not add time or cost—certifications that will boost your résumé as soon as you've earned them, even before you complete your WGU degree in cybersecurity.
+
+- degree: Applied Associates of Science, Computer Science Programming
+  uni: Brookdale Community College
+  year: 2015 &mdash; 2018
+  summary: Courses are designed to offer hands-on experience to prepare the student for an entry level computer programming position. Focus is on problem analysis, design, coding, testing and debugging. This degree is not designed to transfer, although the student will find that many of the courses which provide a foundation in computer science.
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Shore Regional High School
+  year: 2005
+
